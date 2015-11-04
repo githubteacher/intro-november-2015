@@ -1,3 +1,3 @@
 ## Hello
-- [] This is good
-- [] This is my bio
+- This is good
+- This is my bio
