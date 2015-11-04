@@ -1,4 +1,6 @@
-# Introduction to GitHub
+# Introduction to GitHub Redesigned
+ Theese changes introduce a new Design
+ ====================================================================
 
 So you signed up for GitHub. Now what? Whether you're new to version control or just need an explanation of Git and GitHub, this one hour class will help you understand the concepts of distributed version control and get started using GitHub. Get to know basic Git concepts and GitHub workflows through step-by-step lessons.
 
